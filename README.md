@@ -1,6 +1,6 @@
 ### Hi, I'm Arslan 👋 Senior AI & Backend Engineer
 
-I build production-grade agentic systems and high-throughput backend infrastructure for clients across the US, EU, UK, and globally. 4 years shipping REST APIs, multi-tenant SaaS architectures, and RAG/agentic AI systems end-to-end — owning the full GenAI lifecycle from RAG architecture and LangGraph orchestration through evaluation and AWS deployment.
+I build production-grade agentic systems and high-throughput backend infrastructure for clients across the US, EU, UK, and globally. 6+ years shipping REST APIs, multi-tenant SaaS architectures, and RAG/agentic AI systems end-to-end — owning the full GenAI lifecycle from RAG architecture and LangGraph orchestration through evaluation and AWS deployment.
 
 Currently a **Senior Software Engineer, AI & Backend** at Kinetic Intelligence, a UAE-based security and investigations SaaS company — working fully remote from Lahore, Pakistan.
 
